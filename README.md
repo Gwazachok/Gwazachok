@@ -1,5 +1,14 @@
 ## Hi there 👋
-# It's gwazachok
+# My Name is Gwazachok, I am a Data scientist (still cooking). 
+# I'm really understanding this concepts and looking forward to getting experience working with data and using them solve real problems 
+
+ 🔭 I’m currently working on a Data Science Program 
+- 🌱 I’m currently learning How to train ML models and evaluate them
+- 👯 I’m looking to collaborate on anything to build up my confidence
+
+
+- 📫 How to reach me: https://www.linkedin.com/in/gwazachok-emmanuel-752612166?trk=contact-info
+
 <!--
 **Gwazachok/Gwazachok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
